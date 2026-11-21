@@ -53,10 +53,12 @@ acceptance test.
 - `SESSION.md` — the acceptance session.
 - `PROTOCOL-VERSION` — the protocol major version you target (`2`).
 - `.gitignore` — extend it for your stack.
+- `LICENSE` — MIT; keep it with the template.
 
 ## Credit and license
 
 The protocol and server are club work. See the server's
-[NOTICE.md](https://github.com/FSS-IoT/iot-mud-server/blob/main/NOTICE.md).
-No license has been chosen for the server yet; this template is a starting
-point for club members.
+[NOTICE.md](https://github.com/FSS-IoT/iot-mud-server/blob/main/NOTICE.md) and
+[LICENSE](https://github.com/FSS-IoT/iot-mud-server/blob/main/LICENSE).
+
+This template is **MIT**; see `LICENSE`. The common server is MIT too.
