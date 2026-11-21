@@ -1,8 +1,10 @@
 # IoT MUD client template
 
-This is a **starting point, not a working client**. Click **Use this template**
-(or fork it) and build your own client in whatever language you like. The
-template intentionally contains no client code, so the stack is your choice.
+This is a **starting point, not a working client**. On GitHub, click **Use this
+template** (or fork it). On a local repo or another host, create an empty
+repository and copy `SESSION.md`, `PROTOCOL-VERSION`, and `LICENSE`. Then build
+your own client in whatever language you like; the template intentionally
+contains no client code, so the stack is your choice.
 
 ## Start here
 
